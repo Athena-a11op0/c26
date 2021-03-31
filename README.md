@@ -1,3 +1,6 @@
 # angryBirdsStage2.5
-Angry Birds stage 2.5 with Class Inheritance and Images
-Learning gitbash c26
+
+<ul>
+  <li>Angry Birds stage 2.5 with Class Inheritance and Images</li>
+  <li>Learnt gitbash</li>
+</ul>
